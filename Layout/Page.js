@@ -6,7 +6,7 @@ const Page =  ({children}) => (
 
         <style jsx global>{`
       html, body {
-        height: 100%
+        height: 100%;
       }
 
       body {
