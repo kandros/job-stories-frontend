@@ -11,10 +11,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.16.1",
+    "dotenv": "^4.0.0",
     "next": "^2.1.1",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-input-autosize": "^1.1.0"
+    "react-input-autosize": "^1.1.0",
+    "uuid": "latest"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-define": "^1.2.0"
   }
 }
